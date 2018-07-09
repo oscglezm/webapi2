@@ -1,0 +1,13 @@
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\webApi.dll.config
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\webApi.dll
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\webApi.pdb
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\Newtonsoft.Json.dll
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\System.Net.Http.Formatting.dll
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\System.Web.Http.dll
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\System.Web.Http.WebHost.dll
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\Newtonsoft.Json.xml
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\System.Net.Http.Formatting.xml
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\System.Web.Http.xml
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\bin\System.Web.Http.WebHost.xml
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\obj\Debug\webApi.dll
+c:\users\oscargm\documents\visual studio 2013\Projects\webApi\webApi\obj\Debug\webApi.pdb
